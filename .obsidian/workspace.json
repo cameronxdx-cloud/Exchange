@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "d336968b37fca3ec",
+    "id": "500f0944ce439ed9",
     "type": "split",
     "children": [
       {
-        "id": "6389e383eb9b57c8",
+        "id": "fbe35c5e28378f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "d258e8a016d62702",
+            "id": "1930c0582fcf53ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Installation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Installation"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "82672e0b5019715e",
+    "id": "cf5847ba711b39bc",
     "type": "split",
     "children": [
       {
-        "id": "a8099eda6451c0f1",
+        "id": "b132234e514a0e21",
         "type": "tabs",
         "children": [
           {
-            "id": "3e176fc497d0f723",
+            "id": "d9d2d14396e772ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "a9819cdb4277a957",
+            "id": "ab35d25ef4855c50",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "abe3c1d7de7f179d",
+            "id": "98a0751b7b5bb9af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "b801be2bf5690556",
+    "id": "d7374241a6fd026b",
     "type": "split",
     "children": [
       {
-        "id": "c9b5c6ee3a4e308f",
+        "id": "804c6a8e14748103",
         "type": "tabs",
         "children": [
           {
-            "id": "fb2b43564027e017",
+            "id": "1066e64f7b86ccab",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -99,7 +95,7 @@
             }
           },
           {
-            "id": "7d9e7d1a59336bac",
+            "id": "117f6f273790a4e9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -117,7 +113,7 @@
             }
           },
           {
-            "id": "52a2acb02b88b5a9",
+            "id": "7fe8843247e3639c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,26 +126,33 @@
             }
           },
           {
-            "id": "b2b18c0c20d54db2",
+            "id": "86f05e1ad16e0d8d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e1f7926febb5f6f1",
+            "id": "dc942d858d2b9fff",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -169,8 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d258e8a016d62702",
+  "active": "1930c0582fcf53ba",
   "lastOpenFiles": [
-    "Installation.md"
+    "Deployment",
+    "Installation.md",
+    "Welcome.md"
   ]
 }
